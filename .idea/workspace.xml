@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b44773ab-5358-44e0-bbf3-22f0370a57e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WBMMsj0eYl6C8VeMo9JsiHcCvz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utility" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AppiumSwitchContex.switchIntro">
+    <configuration name="AppiumSwitchContex.keyIntro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Appium project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AppiumSwitchContex" />
+      <option name="METHOD_NAME" value="keyIntro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppiumSwitchContex.switchIntro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Appium project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AppiumSwitchContex" />
+      <option name="METHOD_NAME" value="switchIntro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uiRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Appium project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.uiRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppiumSwitchContex.switchIntro" />
+        <item itemvalue="JUnit.AppiumSwitchContex.keyIntro" />
+        <item itemvalue="JUnit.uiRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b44773ab-5358-44e0-bbf3-22f0370a57e4" name="Default Changelist" comment="" />
+      <created>1578618489456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578618489456</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578619612581">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="443" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1578619612581" />
+    <state width="1335" height="190" key="GridCell.Tab.0.bottom" timestamp="1578853301932">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1335" height="190" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1578853301932" />
+    <state width="1335" height="190" key="GridCell.Tab.0.center" timestamp="1578853301931">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1335" height="190" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1578853301931" />
+    <state width="1335" height="190" key="GridCell.Tab.0.left" timestamp="1578853301930">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1335" height="190" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1578853301930" />
+    <state width="1335" height="190" key="GridCell.Tab.0.right" timestamp="1578853301931">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1335" height="190" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1578853301931" />
+  </component>
+</project>
